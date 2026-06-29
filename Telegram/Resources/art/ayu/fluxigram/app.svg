@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fluxBg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36C5F0"/>
+      <stop offset="0.55" stop-color="#6A5BFF"/>
+      <stop offset="1" stop-color="#B14DFF"/>
+    </linearGradient>
+    <linearGradient id="fluxBolt" x1="180" y1="96" x2="332" y2="416" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E6F4FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="256" fill="url(#fluxBg)"/>
+  <path d="M300 96 H188 C174 96 162 108 162 122 V390 C162 404 174 416 188 416 C202 416 214 404 214 390 V300 H286 C300 300 312 288 312 274 C312 260 300 248 286 248 H214 V160 H300 C314 160 326 148 326 134 C326 120 314 108 300 108 Z" fill="url(#fluxBolt)"/>
+  <path d="M330 150 L246 286 H300 L262 410 L388 232 H320 Z" fill="#FFE45C" opacity="0.95"/>
+</svg>
